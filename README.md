@@ -23,3 +23,10 @@ http://virajvjoshi.com
 Exp_06.py-Exp_08.py
 Andy Carrera, Bianca Russo, Bob Turner, Viraj Joshi
 http://virajvjoshi.com/flare
+
+Further Links:
+https://opencv.org/
+https://www.uco.es/investiga/grupos/ava/node/26
+http://chev.me/arucogen/
+http://jevois.org/moddoc/DemoArUco/modinfo.html
+https://www.uco.es/investiga/grupos/ava/node/26
